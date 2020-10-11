@@ -1,0 +1,9 @@
+*
+!*.js
+!license.md
+!package.json
+!package-lock.json
+!README.md
+!pg-que.d.ts
+!sql/*.*
+!sql/v1/*.*

@@ -1,0 +1,27 @@
+{
+  "name": "compressed-hash",
+  "version": "0.0.1",
+  "description": "Reversible hash for binary data",
+  "main": "compressed-hash.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LRagji/compressed-hash.git"
+  },
+  "keywords": [
+    "hash",
+    "compression",
+    "reversible"
+  ],
+  "author": "laukik",
+  "license": "SEE LICENSE IN license.md",
+  "bugs": {
+    "url": "https://github.com/LRagji/compressed-hash/issues"
+  },
+  "homepage": "https://github.com/LRagji/compressed-hash#readme",
+  "dependencies": {
+    "big-integer": "^1.6.48"
+  }
+}
